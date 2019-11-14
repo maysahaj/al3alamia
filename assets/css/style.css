@@ -179,21 +179,8 @@ a.arro:hover {
     width: 100%;
     position: relative;
 }
-.owl-carousel .item  .overlay{
-    transition: all 0.4s ease-in-out 0s;
-    bottom: 0;
-    display: block;
-    height:300px;
-    width: 50px;
-    left: 0;
-    margin: auto;
-    right: 0;
-    top: 0;
-    width: 100%;
-    position: absolute;
-    background: rgba(158, 72, 72, 0.705);
- 
-}
+
+
 
 
 .owl-carousel .item img:hover{
