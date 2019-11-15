@@ -116,6 +116,34 @@
 .fourthsection .row1{
     margin-top:10px;
 }
+.square{
+    height:auto;
+}
+.fourthsection .grid_item_overlay {
+    position: absolute;
+    left: 33%;
+    top: 0%;
+    width: 200px;
+    height: 100%;
+    background: rgba(9, 168, 6, 0.6);
+    color: #fff;
+    padding: 20px;
+    opacity: 0;
+    transition: 0.6s;
+    padding-top: 35%;
+    z-index: 99;
+}
+.fourthsection .grid_item_overlay h3{
+    color:#fff;
+    font-size: 14px;
+    margin-top: 160px;
+    border-top:5px solid #fff;
+ }
+ .fourthsection .grid_item_overlay .half-pic{
+     color:#fff;
+     font-size: 14px;
+     margin-top: 50px;
+  }
 
 .sevensection .row  .ImgSec img{
     position: relative;
