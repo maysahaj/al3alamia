@@ -228,7 +228,7 @@ a.arro:hover {
     top:0%;
     width:100%;
     height: 100%;
-    background: rgba(58, 55, 55, 0.6);
+    background: rgba(231,76,60,0.6);
     color:#fff;
     padding: 20px;
     opacity: 0;
@@ -251,6 +251,7 @@ a.arro:hover {
 .thirdsection .grid_item_overlay h3{
    color:#fff;
    font-size: 18px;
+   padding-top: 30px;
    border-top:5px solid #fff;
 }
 .thirdsection .grid_item_overlay .half-pic{
